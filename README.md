@@ -1,8 +1,9 @@
 ## Insall:
-- install google chrome
+- install google chrome or Chromium
 - install tmux: ```sudo apt-get install tmux```
-- install venv https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
-- start virtual environment: source .env/bin/activate
+- Create a folder and put the files of the repository in
+- activate venv in the folder ```python3 -m venv .venv```
+- start virtual environment: source .venv/bin/activate
 - run in env: ``` pip install -r requirements.txt ``` to install required packages
 
 ## usage
